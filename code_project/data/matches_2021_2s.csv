@@ -1,0 +1,15 @@
+event,match_number,fe1,fe2,t1p1,t1p2,t2p1,t2p2,score1,score2
+2021_2s,1,FALSE,FALSE,Rose Roché,Aaron Carter,Brian Tafazoli,Evan Sooklal,6,3
+2021_2s,2,FALSE,FALSE,Coby Lovelace,Jason Jackson,Jack Massingill,Will Simpson,6,3
+2021_2s,3,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Ann Hall,Anna Brown,6,3
+2021_2s,4,FALSE,FALSE,Rohan Chowla,Levin Lee,Paul Bartenfeld,Leah Baetcke,6,0
+2021_2s,5,TRUE,TRUE,Brian Tafazoli,Evan Sooklal,Jack Massingill,Will Simpson,4,6
+2021_2s,6,TRUE,TRUE,Ann Hall,Anna Brown,Paul Bartenfeld,Leah Baetcke,6,4
+2021_2s,7,FALSE,FALSE,Rose Roché,Aaron Carter,Coby Lovelace,Jason Jackson,5,6
+2021_2s,8,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Levin Lee,5,6
+2021_2s,9,TRUE,TRUE,Kevin Cooper,Roman Ramirez,Ann Hall,Anna Brown,6,5
+2021_2s,10,TRUE,TRUE,Rose Roché,Aaron Carter,Jack Massingill,Will Simpson,5,6
+2021_2s,11,TRUE,TRUE,Jack Massingill,Will Simpson,Kevin Cooper,Roman Ramirez,5,6
+2021_2s,12,FALSE,FALSE,Coby Lovelace,Jason Jackson,Rohan Chowla,Levin Lee,6,5
+2021_2s,13,TRUE,TRUE,Rohan Chowla,Levin Lee,Kevin Cooper,Roman Ramirez,6,3
+2021_2s,14,TRUE,TRUE,Coby Lovelace,Jason Jackson,Rohan Chowla,Levin Lee,11,12

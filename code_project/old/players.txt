@@ -1,0 +1,23 @@
+player,seed_2022_1s,seed_2022_2s
+Kristian Banlaoi,1,None
+Kevin Cooper,2,2
+Rohan Chowla,3,1
+Kalah Roche,4,3
+Aaron Carter,5,3
+Roman Ramirez,6,2
+Coby Lovelace,7,6
+Paul Bartenfeld,8,8
+Jason Jackson,9,4
+Jack Massingill,10,5
+Evan Sooklal,11,None
+Leah Baetcke,12,7
+Gabe Silverstein,13,5
+Reagan Fryatt,14,None
+Carla Betancourt,15,None
+Levin Lee,None,1
+Cason Duszak,None,4
+Will Simpson,None,6
+Ann Hall,None,7
+Helen Dunn,None,8
+Noah Dale,None,8
+Yvonne Nguyen,None,9
